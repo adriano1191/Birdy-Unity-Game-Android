@@ -1,6 +1,8 @@
-# Project Title
+<img src="https://imgur.com/tiIUl8Q" title="Birdy" alt="Birdy">
 
-One Paragraph of project description goes here
+# Birdy
+
+My first android game created on the Unity engine.
 
 ## Getting Started
 
