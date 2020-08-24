@@ -1,4 +1,4 @@
-<img src="https://imgur.com/tiIUl8Q" title="Birdy" alt="Birdy">
+<img src="https://i.imgur.com/tiIUl8Q.jpg" title="Birdy" alt="Birdy">
 
 # Birdy
 
