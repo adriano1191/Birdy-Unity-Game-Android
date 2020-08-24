@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 558f8d896f172d941b510ef750619601
+timeCreated: 1503537991
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Clouds_0
+    21300002: Clouds_1
+    21300004: Clouds_2
+    21300006: Clouds_3
+    21300008: Clouds_4
+    21300010: Clouds_5
+    21300012: Clouds_6
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clouds_0
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1423
+        width: 354
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clouds_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1319
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clouds_2
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1230
+        width: 180
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clouds_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1062
+        width: 228
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clouds_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 893
+        width: 359
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clouds_5
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 690
+        width: 292
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Clouds_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 141
+        width: 696
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 354, y: -592}
+      - {x: 402, y: -570}
+      - {x: 443, y: -543}
+      - {x: 489, y: -542}
+      - {x: 514, y: -514}
+      - {x: 514, y: -483}
+      - {x: 500, y: -477}
+      - {x: 460, y: -474}
+      - {x: 396, y: -390}
+      - {x: 205, y: -390}
+      - {x: 143, y: -412}
+      - {x: 81, y: -474}
+      - {x: 43, y: -454}
+      - {x: 1, y: -465}
+      - {x: -12, y: -488}
+      - {x: -47, y: -482}
+      - {x: -122, y: -460}
+      - {x: -171, y: -532}
+      - {x: -186, y: -585}
+      - {x: -186, y: -606}
+      - {x: -176, y: -619}
+      - {x: -116, y: -654}
+      - {x: -24, y: -642}
+      - {x: 7, y: -661}
+      - {x: 58, y: -661}
+      - {x: 122, y: -647}
+      - {x: 211, y: -654}
+      - {x: 302, y: -645}
+    - - {x: 560, y: 48}
+      - {x: 482, y: 48}
+      - {x: 438, y: 18}
+      - {x: 386, y: -19}
+      - {x: 386, y: -81}
+      - {x: 409, y: -111}
+      - {x: 484, y: -111}
+      - {x: 538, y: -97}
+      - {x: 573, y: -112}
+      - {x: 630, y: -112}
+      - {x: 676, y: -87}
+      - {x: 682, y: -63}
+      - {x: 682, y: -16}
+      - {x: 651, y: -2}
+    - - {x: -38, y: 178}
+      - {x: -108, y: 230}
+      - {x: -278, y: 230}
+      - {x: -290, y: 229}
+      - {x: -340, y: 185}
+      - {x: -396, y: 179}
+      - {x: -401, y: 170}
+      - {x: -401, y: 138}
+      - {x: -365, y: 115}
+      - {x: -318, y: 110}
+      - {x: -297, y: 110}
+      - {x: -217, y: 91}
+      - {x: -166, y: 91}
+      - {x: -152, y: 93}
+      - {x: -78, y: 119}
+      - {x: -39, y: 145}
+      - {x: -38, y: 146}
+    - - {x: 7, y: 396}
+      - {x: -119, y: 396}
+      - {x: -164, y: 361}
+      - {x: -175, y: 337}
+      - {x: -175, y: 309}
+      - {x: -157, y: 283}
+      - {x: -139, y: 262}
+      - {x: -41, y: 262}
+      - {x: 40, y: 290}
+      - {x: 57, y: 317}
+      - {x: 57, y: 364}
+    - - {x: 650, y: 566}
+      - {x: 560, y: 566}
+      - {x: 551, y: 563}
+      - {x: 518, y: 515}
+      - {x: 518, y: 463}
+      - {x: 526, y: 430}
+      - {x: 529, y: 428}
+      - {x: 613, y: 428}
+      - {x: 686, y: 440}
+      - {x: 702, y: 474}
+      - {x: 702, y: 515}
+      - {x: 696, y: 535}
+    - - {x: -479, y: 582}
+      - {x: -557, y: 602}
+      - {x: -595, y: 602}
+      - {x: -614, y: 583}
+      - {x: -639, y: 538}
+      - {x: -639, y: 497}
+      - {x: -632, y: 489}
+      - {x: -560, y: 489}
+      - {x: -466, y: 514}
+      - {x: -461, y: 524}
+      - {x: -461, y: 543}
+      - {x: -465, y: 559}
+    - - {x: 450, y: 721}
+      - {x: 420, y: 735}
+      - {x: 362, y: 740}
+      - {x: 354, y: 738}
+      - {x: 344, y: 733}
+      - {x: 320, y: 739}
+      - {x: 272, y: 758}
+      - {x: 207, y: 758}
+      - {x: 128, y: 731}
+      - {x: 92, y: 695}
+      - {x: 92, y: 669}
+      - {x: 156, y: 621}
+      - {x: 348, y: 621}
+      - {x: 368, y: 650}
+      - {x: 449, y: 678}
+      - {x: 450, y: 683}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
