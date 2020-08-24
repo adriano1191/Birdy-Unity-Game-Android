@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bird", "Bird.csproj", "{BEA5EF78-6CD0-E786-25F6-7D61473EF7FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bird.Plugins", "Bird.Plugins.csproj", "{DB94D1C2-9783-E474-88D0-23C71A649E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bird.Editor.Plugins", "Bird.Editor.Plugins.csproj", "{CA72B4D1-E184-0CEF-148D-1ABD5F30CCE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA5EF78-6CD0-E786-25F6-7D61473EF7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA5EF78-6CD0-E786-25F6-7D61473EF7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA5EF78-6CD0-E786-25F6-7D61473EF7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA5EF78-6CD0-E786-25F6-7D61473EF7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB94D1C2-9783-E474-88D0-23C71A649E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB94D1C2-9783-E474-88D0-23C71A649E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB94D1C2-9783-E474-88D0-23C71A649E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB94D1C2-9783-E474-88D0-23C71A649E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA72B4D1-E184-0CEF-148D-1ABD5F30CCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA72B4D1-E184-0CEF-148D-1ABD5F30CCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA72B4D1-E184-0CEF-148D-1ABD5F30CCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA72B4D1-E184-0CEF-148D-1ABD5F30CCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
