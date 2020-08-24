@@ -24,4 +24,4 @@ Shoot the bird as far as possible, avoid obstacles or destroy them, collect coin
 - more sounds and music
 
 Download here:
-<a href="http://slideme.org/application/birdy"/>
+<a href="http://slideme.org/application/birdy">http://slideme.org/application/birdy</a>
