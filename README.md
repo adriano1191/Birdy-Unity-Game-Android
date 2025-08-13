@@ -25,3 +25,9 @@ Shoot the bird as far as possible, avoid obstacles or destroy them, collect coin
 
 Download here:
 <a href="http://slideme.org/application/birdy">http://slideme.org/application/birdy</a>
+
+<img src="https://i.imgur.com/OgBfQVo.png.jpg" title="Birdy" alt="Birdy">
+<img src="https://i.imgur.com/QoHxUh4.png" title="Birdy" alt="Birdy">
+<img src="https://i.imgur.com/SoZSFGT.png" title="Birdy" alt="Birdy">
+
+
